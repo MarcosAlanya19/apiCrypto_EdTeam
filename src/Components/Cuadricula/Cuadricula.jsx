@@ -1,4 +1,4 @@
-import usePetition from "../../hooks/usePetition"
+import usePetition from "../../Hooks/usePetition"
 import Cripto from "../cripto/Cripto"
 import "./Cuadricula.css"
 
