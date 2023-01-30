@@ -1,6 +1,6 @@
 import usePetition from "../../Hooks/usePetition"
 import { Cripto } from "../Cripto/Cripto"
-import "./Cuadricula.css"
+import "./cuadricula.css"
 
 function Cuadricula() {
 
