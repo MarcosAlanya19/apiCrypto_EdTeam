@@ -1,7 +1,7 @@
 import { useContext } from "react"
 import { NavLink, useNavigate } from "react-router-dom"
 import { UserContext } from "../../Context/UserContext"
-import "./Menu.css"
+import "./menu.css"
 
 const Menu = () => {
   const usuario = useContext(UserContext)
